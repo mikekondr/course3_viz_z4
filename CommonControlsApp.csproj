@@ -98,5 +98,10 @@
   <ItemGroup>
     <Resource Include="img\users.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\copy.png" />
+    <Resource Include="img\cut.png" />
+    <Resource Include="img\paste.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
